@@ -1,7 +1,7 @@
 program Pancake_Demo
   implicit none
  
-  integer :: list(8) = (/ 1, 4, 7, 2, 5, 8, 3, 6 /)
+  integer :: list(8) = (/ 1, 3, 7, 2, 5, 8, 4, 6 /)
  
   call Pancake_sort(list)
  
