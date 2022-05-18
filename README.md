@@ -12,3 +12,8 @@ Formula Translating System
 + [Why Physicists still use Fortran](http://www.moreisdifferent.com/2015/07/16/why-physicsts-still-use-fortran/)
 + [Modern Fortran](https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 + [Fortran.io](https://fortran.io/) - web framework
+
+
+### Interesting Projects
+
++ [SPIDER](https://github.com/spider-em/SPIDER) - System for Processing Image Data from Electron microscopy and Related fields
