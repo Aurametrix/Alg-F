@@ -13,6 +13,7 @@ Formula Translating System
 + [Modern Fortran](https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 + [Fortran.io](https://fortran.io/) - web framework
 + [https://www.matecdev.com/posts/why-fortran-still-used.html](Why fortran is still used)
++ [MAp, Filter, Reduce](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
 
 
 
