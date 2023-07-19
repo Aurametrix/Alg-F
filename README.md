@@ -20,3 +20,4 @@ Formula Translating System
 ### Interesting Projects
 
 + [SPIDER](https://github.com/spider-em/SPIDER) - System for Processing Image Data from Electron microscopy and Related fields
++ [RWKV.F90](https://github.com/FortAI-Hub/rwkv.f90) - Large Language Model in Fortran
