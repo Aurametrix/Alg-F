@@ -7,6 +7,8 @@ Formula Translating System
 + [Annual Conference](https://tcevents.chem.uzh.ch/event/14/)
 + [What makes Fortran fast?](https://scicomp.stackexchange.com/questions/203/what-makes-fortran-fast)
 + [2021 Arxiv paper](https://arxiv.org/abs/2109.07382)
++ [The State of Fortran  - 2022](https://arxiv.org/abs/2203.15110)
++ [Fortran 2023](https://www.iso.org/standard/82170.html)
 + [Flang, a Fortran compiler targeting LLVM](https://github.com/flang-compiler/flang)
 + [Fortran Web framework](https://github.com/mapmeld/fortran-machine)
 + [Why Physicists still use Fortran](http://www.moreisdifferent.com/2015/07/16/why-physicsts-still-use-fortran/)
