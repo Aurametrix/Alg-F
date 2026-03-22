@@ -17,6 +17,7 @@ Formula Translating System
 + [https://www.matecdev.com/posts/why-fortran-still-used.html](Why fortran is still used)
 + [Map, Filter, Reduce](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
 + [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
++ [Fortransky](https://github.com/FormerLab/fortransky) - A terminal-only Bluesky / AT Protocol client written in Fortran, with a Rust native firehose decoder for the relay-raw stream path.
 
 
 
