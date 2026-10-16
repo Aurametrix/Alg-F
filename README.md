@@ -25,3 +25,4 @@ Formula Translating System
 
 + [SPIDER](https://github.com/spider-em/SPIDER) - System for Processing Image Data from Electron microscopy and Related fields
 + [RWKV.F90](https://github.com/FortAI-Hub/rwkv.f90) - Large Language Model in Fortran
++ [Celebrating 70 years pf Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
